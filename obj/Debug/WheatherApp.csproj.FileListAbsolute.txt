@@ -1,0 +1,11 @@
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\bin\Debug\WheatherApp.exe.config
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\bin\Debug\WheatherApp.exe
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\bin\Debug\WheatherApp.pdb
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\obj\Debug\WheatherApp.csproj.AssemblyReference.cache
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\obj\Debug\WheatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\obj\Debug\WheatherApp.csproj.CoreCompileInputs.cache
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\obj\Debug\WheatherApp.csproj.CopyComplete
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\obj\Debug\WheatherApp.exe
+C:\Users\dpejs\Desktop\Studia\GitRepositories\WheatherApp\obj\Debug\WheatherApp.pdb
